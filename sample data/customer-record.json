@@ -1,0 +1,23 @@
+[
+  {
+    "customerId": "CUST1001",
+    "customerName": "John Doe",
+    "accountNumber": "ACC1001",
+    "accountStatus": "Active",
+    "serviceType": "Premium"
+  },
+  {
+    "customerId": "CUST1002",
+    "customerName": "Jane Smith",
+    "accountNumber": "ACC1002",
+    "accountStatus": "Inactive",
+    "serviceType": "Standard"
+  },
+  {
+    "customerId": "CUST1003",
+    "customerName": "Alex Johnson",
+    "accountNumber": "ACC1003",
+    "accountStatus": "Active",
+    "serviceType": "Standard"
+  }
+]
