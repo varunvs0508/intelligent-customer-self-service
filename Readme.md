@@ -2,7 +2,7 @@
 
 An AWS-based conversational customer-service system that automates common customer inquiries using **Amazon Lex, AWS Lambda, and Amazon DynamoDB**, with **Amazon Connect** designed as the contact-center and human-agent fallback layer.
 
-![Architecture Diagram](architecture/architecture.png)
+![Architecture Diagram](architecture/architectre.png)
 
 ---
 
